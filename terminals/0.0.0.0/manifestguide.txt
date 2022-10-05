@@ -1,0 +1,17 @@
+portsrequired
+smtp
+ftp
+http
+ssh
+kbt
+torrent
+ssl
+pacific
+rtsp
+proxy
+proxystrength
+firewall
+firewallpass
+invioability
+trace
+tracetime
